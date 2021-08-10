@@ -1,8 +1,7 @@
-# GildedRose Kata - PHP Version
+# Refactored GildedRose Kata - PHP Version
 
-See the [top level readme](../README.md) for general information about this exercise. This is the PHP version of the
-GildedRose Kata.
-
+See original kata and description:
+https://github.com/emilybache/GildedRose-Refactoring-Kata/
 ## Installation
 
 The kata uses:
