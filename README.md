@@ -2,6 +2,10 @@
 
 See original kata and description:
 https://github.com/emilybache/GildedRose-Refactoring-Kata/
+
+##GildedRose Kata - PHP Version
+See the [top level readme]https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/README.md for general information about this exercise. This is the PHP version of the GildedRose Kata.
+
 ## Installation
 
 The kata uses:
